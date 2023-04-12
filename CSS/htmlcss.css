@@ -1,0 +1,144 @@
+
+.first{
+    border-style: hidden;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: black;
+       
+    
+}
+#first1{
+    display: grid;
+    grid-template-columns:auto auto auto auto auto auto auto;
+    font-size: 20px;
+    padding-top: 25px;
+    color: white;
+}
+#first1 p:hover{
+    color: yellow;
+}
+
+
+#first2{
+    padding-left: 50px;
+    color: yellow;
+    font-size: 45px;
+
+}
+.second{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: black;
+    
+}
+#second1{
+    color: white;
+    font-style: oblique;
+    font-size: 60px;
+    width: 400px;
+    padding-left: 100px;
+}
+#second3{
+    color: white;
+    font-style: italic;
+    font-size: 30px;
+    width: 700px;
+    padding-left: 50px;
+    
+}
+#second4{
+    color: white;
+    padding-left: 300px;
+    font-size: 30px;
+    
+}
+#second2{
+    padding-left: 60px;
+}
+.third{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-top: 50px;
+    padding-left: 80px;
+}
+#third1{
+    border-style: solid;
+     width: 300px;
+     padding-left: 30px;
+     border-color: aliceblue;
+     background-color:whitesmoke;
+     
+     
+}
+#third2{
+    border-style: solid;
+    width: 300px;
+    padding-left: 30px;
+    border-color: aliceblue;
+    background-color: whitesmoke;
+}
+#third3{
+    border-style: solid;  
+    width: 300px;
+    padding-left: 30px;
+    border-color: aliceblue;
+    background-color: whitesmoke;
+}
+#third4{
+    border-style: solid;
+    width: 300px;
+    padding-left: 30px;
+    border-color: aliceblue;
+    background-color: whitesmoke;
+}
+.fourth{
+ display: grid;
+ grid-template-columns: 50% 50%;   
+}
+#fourthimg{
+display: grid;
+grid-template-columns: 50% 50%;
+margin-top: 50px;
+
+}
+#img1{
+    padding-left: 50px;
+}
+#img2{
+    padding-top: 100px;
+}
+#img3{
+    padding-left: 150px;
+}
+#fifthpara{
+    font-style: oblique;
+    color: orange;
+    text-align: left;
+    font-size: 25px;
+    font-weight: bolder;
+}  
+.fifth{
+   margin-top: 200px;    
+}
+#fifthhead{
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: oblique;
+}
+#fifthend{
+    display:flex;
+    
+
+    
+}
+#fifth1{
+    border-style: solid;
+
+}
+#fifth2{
+    border-style: solid;
+    display: flex;
+    margin-left: 80px;
+
+}
+

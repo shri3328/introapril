@@ -1,0 +1,17 @@
+p{
+    color: red;
+    font-size: 70px;
+    font-family: fantasy;
+    font-weight: 300;
+    font-style: oblique;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 4px 4px 4px ;
+    white-space:nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
